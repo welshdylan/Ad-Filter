@@ -25,3 +25,7 @@ ck.ads.oppomobile.com
 metrics.data.hicloud.com
 metrics2.data.hicloud.com
 samsung-com.112.2o7.net
+gtm.mouseflow.com
+tools.mouseflow.com
+browser.sentry-cdn.com
+app.getsentry.com
